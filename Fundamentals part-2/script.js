@@ -1,6 +1,6 @@
 // strict mode in js (It can show us visible errors, don't allow words that they want to use in the future of js to declare as a variable and we have to declare the following statement at the beginning of the script file)
 
-'use strict';
+"use strict";
 
 /*
 // Testing strict mode
@@ -314,8 +314,6 @@ while (dice !== 6) {
     }
 }
 */
-
-
 
 /*
 // Coding challenges
